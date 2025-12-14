@@ -9,7 +9,7 @@ This page highlights key information about a tech company’s services, includin
 ## 🚀 Live Preview
 
 Check the live demo here:  
-🔗 https://mahmoudmans90.github.io/Exam-1/
+🔗 https://mahmoudmans90.github.io/clarity/
 
 ---
 
@@ -39,4 +39,4 @@ This template is suitable for showcasing agency services and tech solutions.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mahmoudmans90/Exam‑1.git
+   git clone https://github.com/mahmoudmans90/clarity.git
